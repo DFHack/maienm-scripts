@@ -1,2 +1,1 @@
 DFHACK_SCRIPTS(gui/quickcmd.lua SUBDIRECTORY gui)
-DFHACK_SCRIPTS(LICENSE SUBDIRECTORY gui/quickcmdlicense)
